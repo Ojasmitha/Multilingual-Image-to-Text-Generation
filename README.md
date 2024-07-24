@@ -1,4 +1,4 @@
-# Multilingual Image Captioning with CLIP and ViT
+#  Image Captioning with CLIP and ViT
 
 This project aims to create a multilingual image captioning system by integrating CLIP and Vision Transformer (ViT) models. It includes steps for downloading images, translating captions, training the model, and generating captions for new images.
 
